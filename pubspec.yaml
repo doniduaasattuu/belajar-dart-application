@@ -11,8 +11,8 @@ publish_to: none
 dependencies:
   belajar_dart_library:
     git:
-      url: git@github.com:doniduaasattuu/belajar_dart_library.git
-      ref: 1.0.0
+      url: git@github.com:doniduaasattuu/belajar-dart-library.git
+      ref: 1.5.0
 
 dev_dependencies:
   lints: ^3.0.0

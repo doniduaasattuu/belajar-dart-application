@@ -37,9 +37,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "1.0.0"
-      resolved-ref: db226d3ca88a463f57384b0c1ff21be2ae6807a4
-      url: "git@github.com:doniduaasattuu/belajar_dart_library.git"
+      ref: "1.5.0"
+      resolved-ref: db9654b9dbff8d40e80a0a499aeb976a8b1bf719
+      url: "git@github.com:doniduaasattuu/belajar-dart-library.git"
     source: git
     version: "1.0.0"
   boolean_selector:
